@@ -1,0 +1,302 @@
+{
+    "intents": [
+        {
+            "tag": "what is dbt",
+            "pattern": [
+                "What is DBT",
+                "What does DBT stand for?"
+            ],
+            "response": [
+                "Dialectical Behavior Therapy (DBT) is a type of cognitive-behavioral treatment that has focuses on teaching behaviors (coping skills) to:\n    • control emotions and thoughts and actions\n    • stop self-destructive or impulsive behavior \n    • improve relationship and communication skills\n\nDBT includes individual, group therapy and coaching if needed. This program is the group component. It was initially developed to treat patients with borderline personality disorders but now the therapy treats other conditions, like, eating disorders, PTSD, depression, anxiety, and addiction."
+            ]
+        },
+        {
+            "tag": "what is a module",
+            "pattern": [
+                "What is a module?",
+                "What do you mean by a module?"
+            ],
+            "response": [
+                "It is a group of teaching sessions focused on a specific DBT skill. \nThe 4 modules are: \n    • Mindfulness\n    • Interpersonal Effectiveness\n    • Emotion Regulation\n    • Distress Tolerance "
+            ]
+        },
+        {
+            "tag": "what skills",
+            "pattern": [
+                "What skills will I learn?",
+                "What skills do you teach?",
+                "What coping skills do you teach?"
+            ],
+            "response": [
+                "The treatment pattern of Dialectical Behavior Therapy involves teaching modules:\n    • Mindfulness, to improve being in the present.\n    • Interpersonal Effectiveness, to improve relationships and communication\n    • Emotion Regulation, to improve emotional control\n    • Distress Tolerance, to stop impulsive & destructive behaviors"
+            ]
+        },
+        {
+            "tag": "mindfulness",
+            "pattern": [
+                "What is mindfulness?",
+                "Explain mindfulness"
+            ],
+            "response": [
+                "Many times we hear the catchall phrases, “live in the moment”, “the past is gone”, and “don’t worry about the future”. Being mindful is applying those concepts in our daily lives without judgement. This skill is practiced in every group session. "
+            ]
+        },
+        {
+            "tag": "distress tolerance",
+            "pattern": [
+                "What is Distress Tolerance?",
+                "What do you mean by distress tolerance?"
+            ],
+            "response": [
+                "It’s the ability to self-regulate their behavior in a crisis. It helps individuals avoid self-destruction as a coping mechanism for problematic situations. It also teaches the difference between accepting reality and justifying it or their destructive actions."
+            ]
+        },
+        {
+            "tag": "interpersonal effectiveness",
+            "pattern": [
+                "What is Interpersonal Effectiveness?",
+                "What do you mean by Interpersonal Effectiveness?",
+                "What is the Interpersonal Effectiveness module about?"
+            ],
+            "response": [
+                "It teaches the person how to be assertive and to create and maintain healthy short- or long-term professional or romantic relationships and friendships. It teaches the person how to be assertive and to create and maintain healthy short- or long-term professional or romantic relationships and friendships. "
+            ]
+        },
+        {
+            "tag": "emotion regulation",
+            "pattern": [
+                "What is Emotion Regulation?",
+                "What do you mean by Emotional Regulation"
+            ],
+            "response": [
+                "People with personality and mood disorders have difficulty managing their emotions. They are unable to navigate feelings easily. When exposed to specific situations, they may not be able to control intense reactions. Through DBT skills, people learn emotion regulation by identifying conditions, overcoming obstacles, increasing positive thought processes, and applying logical actions to their emotional thoughts."
+            ]
+        },
+        {
+            "tag": "program duration",
+            "pattern": [
+                "How long has the program been running?"
+            ],
+            "response": [
+                "We have been running the program for 1 year already here at the The Insight Clinic. However, this is a standard well researched treatment program that has been used successfully since the 1970s. "
+            ]
+        },
+        {
+            "tag": "who are instructors",
+            "pattern": [
+                "Who are the instructors?",
+                "Who are the therapists?",
+                "Who runs the program?"
+            ],
+            "response": [
+                "The instructors are Georgia Fullerton, Expressive Arts Therapist and Fatima Tahir, Master of Social Work. Both with extensive experience in group therapy and in DBT skills training, \nEmbed videos first to keep lead in chat. These are them:\nhttps://www.youtube.com/watch?v=8FLoL5rKb-Y&feature=emb_logo\nhttps://www.youtube.com/watch?v=93eEhLU0mh0&t=4s"
+            ]
+        },
+        {
+            "tag": "ohip",
+            "pattern": [
+                "Is this covered by OHIP?"
+            ],
+            "response": [
+                "No. It may be covered by your extended healthcare insurance if you have coverage for a Registered Social Worker. "
+            ]
+        },
+        {
+            "tag": "teens",
+            "pattern": [
+                "Is this program available for teens?",
+                "Is this program available for teenagers?",
+                "Is this open to teens?",
+                "Is this open to teenagers?"
+            ],
+            "response": [
+                "Not at the moment."
+            ]
+        },
+        {
+            "tag": "when does it start",
+            "pattern": [
+                "When does it start?"
+            ],
+            "response": [
+                "You can start at any time if you choose to access our self-paced program. If you want to participate in the live group sessions over Zoom. Here’s the calendar:\n2021-2022 COURSE SCHEDULE: \n    1. Distress Tolerance → \nSept 15, 22, 29, Oct 6, 13\n\n\n    2. Interpersonal Effectiveness → \nNov 16, 23, 30, Dec 7, Dec 14 \n\n\n    3. Emotional Regulation → \nJan 12, 19, 26, Feb 2, 9 ER\n\n\n    4. Walking the Middle Path → \nMar 16, 23, 30, April 6, 13"
+            ]
+        },
+        {
+            "tag": "fees",
+            "pattern": [
+                "What are the fees?",
+                "What is the cost",
+                "How much does this cost?",
+                "What is the price?"
+            ],
+            "response": [
+                "With access to live sessions:\n$275.00 for an individual module taught over 7-8 weeks. \n$849.00 in 1 payment for all 4 modules taught over 1year \n$90.00 in 12 payments for all 4 modules taught over 1 year \n\nSelf-paced: recordings only: \n$70.00 in 12 payments for all 4 modules taught over 1 year\n"
+            ]
+        },
+        {
+            "tag": "registration",
+            "pattern": [
+                "How do I register?",
+                "How can you register?",
+                "How may I sign up?"
+            ],
+            "response": [
+                "Visit this site:\nhttps://theinsightclinic.ca/product-category/courses/"
+            ]
+        },
+        {
+            "tag": "talk on phone",
+            "pattern": [
+                "Can I talk to someone on the phone?",
+                "Can I talk to a person?",
+                "Can I meet an instructor?"
+            ],
+            "response": [
+                "Certainly. Please call 289-483-0133, Monday to Friday 9:00 to 6;30 pm. \nThey can set up a call with one of the instructors or sign you up on the phone. "
+            ]
+        },
+        {
+            "tag": "free trial",
+            "pattern": [
+                "Is there a trial?",
+                "Is there a free trial?"
+            ],
+            "response": [
+                "No, there isn't a trial."
+            ]
+        },
+        {
+            "tag": "guarantee",
+            "pattern": [
+                "Does it have a guarantee?"
+            ],
+            "response": [
+                "This is a psychotherapy service; people have different experiences. We cannot guarantee what kind of experience you will have. It very much depends on your individual case. \nAll payments are final. "
+            ]
+        },
+        {
+            "tag": "anxiety bipolar depression trauma anger addiction",
+            "pattern": [
+                "Deos this help with depression?",
+                "Does this help with anxiety?",
+                "Does this help with bipolar?",
+                "Does this help with anger?",
+                "Does this help with trauma?",
+                "Does this help with addiction?"
+            ],
+            "response": [
+                "DBT was initially developed to treat patients with borderline personality disorders but now the therapy treats other conditions, like, eating disorders, PTSD, depression, anxiety, and addiction. The skills taught in the group will help anyone who struggles with emotional sensitivity and mood issues. "
+            ]
+        },
+        {
+            "tag": "age limit",
+            "pattern": [
+                "Is there an age limit?"
+            ],
+            "response": [
+                "No, but it's for 18 and older."
+            ]
+        },
+        {
+            "tag": "suicidal ideation",
+            "pattern": [
+                "Does this help with suicidal ideation?"
+            ],
+            "response": [
+                "It does."
+            ]
+        },
+        {
+            "tag": "what is bpd",
+            "pattern": [
+                "What is BPD?"
+            ],
+            "response": [
+                "It is borderline personality disorder."
+            ]
+        },
+        {
+            "tag": "are group sessions in person",
+            "pattern": [
+                "Are group sessions in person?"
+            ],
+            "response": [
+                "No. They are done online via zoom."
+            ]
+        },
+        {
+            "tag": "include",
+            "pattern": [
+                "What does this include?"
+            ],
+            "response": [
+                "It includes access for 1 year to the session recordings or access to live sessions, your choice. \nHome exercises and handouts. "
+            ]
+        },
+        {
+            "tag": "anonymous",
+            "pattern": [
+                "Is it anonymous?"
+            ],
+            "response": [
+                "Participants choose how much they want to share. No one will push participants to share or turn on their camera if they’re not comfortable. "
+            ]
+        },
+        {
+            "tag": "results",
+            "pattern": [
+                "What results have you gotten?"
+            ],
+            "response": [
+                "This is a psychotherapy service; people have different experiences. We cannot guarantee what kind of experience you will have. It very much depends on your individual case. We cannot have testimonials for that reason. We do have research! For example: https://blogs.cuit.columbia.edu/dbt/research-studies-on-dialectical-behavior-therapy/ "
+            ]
+        },
+        {
+            "tag": "zoom",
+            "pattern": [
+                "Are sessions done on Zoom?",
+                "How long are the sessions?"
+            ],
+            "response": [
+                "They are 90 minutes long and the happen every Wednesday at 6:30 pm to 8:00 pm EST"
+            ]
+        },
+        {
+            "tag": "support between sessions",
+            "pattern": [
+                "Is there support in between sessions?"
+            ],
+            "response": [
+                "Not at this time."
+            ]
+        },
+        {
+            "tag": "individual dbt therapy",
+            "pattern": [
+                "Do you offer individual DBT therapy?"
+            ],
+            "response": [
+                "Yes. See Trina, Georgia or Fatima here: https://theinsightclinic.ca/our-team/"
+            ]
+        },
+        {
+            "tag": "pay etransfer",
+            "pattern": [
+                "Can I pay via etransfer?"
+            ],
+            "response": [
+                "Yes, please email send an etransfer to contact@theinsightclinic.ca and include:\nNEW DBT STUDENT, your first and last name, phone number, email"
+            ]
+        },
+        {
+            "tag": "website with info",
+            "pattern": [
+                "Is there a website with all this information?"
+            ],
+            "response": [
+                "Yes. https://theinsightclinic.ca/dbtonlinegroupskillstraining"
+            ]
+        }
+    ]
+}
