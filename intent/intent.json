@@ -1,6 +1,21 @@
 {
     "intents": [
         {
+            "tag": "greeting",
+            "pattern": [
+                "hi",
+                "hey",
+                "hello",
+                "how are you",
+                "ay",
+                "I have some questions",
+                "Hi! I have some questions"
+            ],
+            "response": [
+                "Hi, I’m Lena. How are you today?\nI can answer your questions about our DBT Group Therapy program."
+            ]
+        },
+        {
             "tag": "what is dbt",
             "pattern": [
                 "What is DBT",
@@ -116,7 +131,9 @@
         {
             "tag": "when does it start",
             "pattern": [
-                "When does it start?"
+                "When does it start?",
+                "When does the course start?",
+                "When is the course?"
             ],
             "response": [
                 "You can start at any time if you choose to access our self-paced program. If you want to participate in the live group sessions over Zoom. Here’s the calendar:\n2021-2022 COURSE SCHEDULE: \n    1. Distress Tolerance → \nSept 15, 22, 29, Oct 6, 13\n\n\n    2. Interpersonal Effectiveness → \nNov 16, 23, 30, Dec 7, Dec 14 \n\n\n    3. Emotional Regulation → \nJan 12, 19, 26, Feb 2, 9 ER\n\n\n    4. Walking the Middle Path → \nMar 16, 23, 30, April 6, 13"
@@ -131,7 +148,7 @@
                 "What is the price?"
             ],
             "response": [
-                "With access to live sessions:\n$275.00 for an individual module taught over 7-8 weeks. \n$849.00 in 1 payment for all 4 modules taught over 1year \n$90.00 in 12 payments for all 4 modules taught over 1 year \n\nSelf-paced: recordings only: \n$70.00 in 12 payments for all 4 modules taught over 1 year\n"
+                "With access to live sessions:\n$275.00 for an individual module taught over 7-8 weeks. \n$849.00 in 1 payment for all 4 modules taught over 1year \n$90.00 in 12 payments for all 4 modules taught over 1 year \n\nSelf-paced: recordings only: \n$70.00 in 12 payments for all 4 modules taught over 1 year"
             ]
         },
         {
@@ -296,6 +313,65 @@
             ],
             "response": [
                 "Yes. https://theinsightclinic.ca/dbtonlinegroupskillstraining"
+            ]
+        },
+        {
+            "tag": "enroll",
+            "pattern": [
+                "How do I enroll?"
+            ],
+            "response": [
+                "Great question! Please click here:\nhttps://theinsightclinic.ca/product-category/courses/"
+            ]
+        },
+        {
+            "tag": "course requirements",
+            "pattern": [
+                "What do I need for this online course?",
+                "What are the course requirements system wise?"
+            ],
+            "response": [
+                "You’ll need to create a Zoom account to participate in the live sessions.\nYou’ll be able to access your recordings and worksheets on our website once you register."
+            ]
+        },
+        {
+            "tag": "pause the course",
+            "pattern": [
+                "Can I pause the course and resume later?",
+                "Can I stop at any time?"
+            ],
+            "response": [
+                "It depends on how you register:\n\nIf you choose a 1 year option to register, you will be charged the fee for all 12 months. This is because it is really a payment plan, not a subscription service.\n\nIf you’re not sure about doing the entire year, you can choose to do it\n1 module at a time. One module is 7-8 weeks of work.\nThis way you register before every module and can stop and start at any time."
+            ]
+        },
+        {
+            "tag": "connection fails",
+            "pattern": [
+                "What if my connection fails while I am in the course",
+                "What if I miss a session?"
+            ],
+            "response": [
+                "You can go back to the recording. It will be available in your student account 12 hours after the session."
+            ]
+        },
+        {
+            "tag": "content available for students",
+            "pattern": [
+                "How long is the content available for students for?",
+                "How long do I have access for?"
+            ],
+            "response": [
+                "You will have access for 13 months if you are registered for 1 year.\nIf you register for 1 module, you’ll have access for 3 months."
+            ]
+        },
+        {
+            "tag": "available for mac",
+            "pattern": [
+                "Is this course available for apple mac?",
+                "Is it available for mac?"
+            ],
+            "response": [
+                "Yes. Wherever you can navigate online and use Zoom, you can do it. Cell phone, laptop or tablet."
             ]
         }
     ]
