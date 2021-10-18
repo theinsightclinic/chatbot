@@ -328,7 +328,9 @@
             "tag": "course requirements",
             "pattern": [
                 "What do I need for this online course?",
-                "What are the course requirements system wise?"
+                "What are the course requirements system wise?",
+                "What are the requirements",
+                "You must be 18 years old or older and be interested in improving your mental health. You must also be able to use Zoom and have an email account to use on our portal."
             ],
             "response": [
                 "You’ll need to create a Zoom account to participate in the live sessions.\nYou’ll be able to access your recordings and worksheets on our website once you register."
